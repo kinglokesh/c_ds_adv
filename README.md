@@ -4,6 +4,6 @@
 
 ---------------------------------------------------
 
-# This repository includes solutions for 
+This repository includes solutions for 
 
-# Chapter 1
+Chapter 1
